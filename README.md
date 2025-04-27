@@ -1,4 +1,6 @@
-# Sales Prediction 
+# Sales Prediction Project (Data Science Assignment)
+I am creating this project to showcase my foremost interest and skills in the position of Data Science Intern at GrowthLink. 
+I am very grateful to have been given this opportunity.
 This project focuses on building a robust Sales Prediction Model to forecast future sales using historical data. 
 The process involves multiple stages, starting from data preprocessing to ensure the data is clean and structured for analysis. 
 Utilized a Linear regression model to predict sales, with a focus on evaluating model performance through cross-validation and various evaluation metrics.
