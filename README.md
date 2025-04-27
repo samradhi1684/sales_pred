@@ -5,7 +5,7 @@ This project focuses on building a robust Sales Prediction Model to forecast fut
 The process involves multiple stages, starting from data preprocessing to ensure the data is clean and structured for analysis. 
 Utilized a Linear regression model to predict sales, with a focus on evaluating model performance through cross-validation and various evaluation metrics.
 
-## Key features :
+## Key features 
 - **Data Preprocessing** : Handling missing values, dropping unnecessary columns and scaling features to improve model accuracy. A correlation heatmap was created to analyze relationships
 between different features before modeling. This helped identify which variables were most strongly correlated with sales, guiding feature selection for the model.  
 - **Modeling** : Applied Linear regression to predict sales and evaluated model using MSE and R-squared scores, and performed thorough cross-validation to ensure model's generalizability.
