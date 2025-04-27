@@ -18,9 +18,9 @@ line, confirming that the predicted sales were very close to the actual values.
 - **Business Optimization** : Based on the model's predictions and insights, we proposed strategies for business optimization, including adjustments to pricing and marketing efforts to drive better sales outcomes.
 
 ## Usage
-To use this project, follow the steps below to set it up on your local system. 
-**Prerequisites** : Python 3.x, Jupyter Notebook, Required Libraries
-jupyter notebook : pip install notebook
+To use this project, follow the steps below to set it up on your local system. **|**
+**Prerequisites** : Python 3.x, Jupyter Notebook, Required Libraries **|**
+jupyter notebook : pip install notebook **|**
 libraries : pip install numpy pandas matplotlib seaborn scikit-learn
 
 **Setting up the project** :
